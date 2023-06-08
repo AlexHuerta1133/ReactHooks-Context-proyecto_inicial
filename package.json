@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/AlexHuerta1133/ReactHooks-Context-proyecto_inicial.git",
+  "author": "Alex Huerta <abraham_serv_pc_@hotmail.com>",
+  "license": "MIT"
 }
